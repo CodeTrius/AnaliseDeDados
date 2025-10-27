@@ -1,0 +1,16 @@
+id_cd,id_regiao,custo_por_unidade
+CD1,R1,5
+CD1,R2,3
+CD1,R3,10
+CD1,R4,12
+CD1,R5,8
+CD2,R1,11
+CD2,R2,9
+CD2,R3,2
+CD2,R4,3
+CD2,R5,7
+CD3,R1,4
+CD3,R2,6
+CD3,R3,7
+CD3,R4,9
+CD3,R5,2
