@@ -50,12 +50,11 @@ Metodologia Aplicada
 
         Formatação de moedas e categorização de dados.
 
-📊 Visualização (Screenshots)
+📊 Visualização
 
 <img width="1323" height="646" alt="image" src="https://github.com/user-attachments/assets/ec49fc6d-37df-454d-9102-b0b31a6849bc" />
 
 Visão Geral dos KPIs e Tendência Temporal.
-
 
 
 
