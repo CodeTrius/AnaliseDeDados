@@ -55,6 +55,10 @@ Metodologia Aplicada
 <img width="1323" height="646" alt="image" src="https://github.com/user-attachments/assets/ec49fc6d-37df-454d-9102-b0b31a6849bc" />
 
 Visão Geral dos KPIs e Tendência Temporal.
+
+
+
+
 📂 Estrutura do Dataset
 
 Os dados utilizados são públicos e estão disponíveis no Kaggle - Brazilian E-Commerce Public Dataset by Olist.
